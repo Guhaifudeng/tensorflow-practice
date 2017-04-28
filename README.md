@@ -1,4 +1,5 @@
 # tensorflow-practice
+版本：tensorflow 0.12.1
 TensorFlow实战<br>
 记录TensorFlow的学习历程<br>
 参考repository：<br>
