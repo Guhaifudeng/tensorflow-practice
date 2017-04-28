@@ -1,8 +1,9 @@
 # tensorflow-practice
-版本：tensorflow 0.12.1
+
 TensorFlow实战<br>
 记录TensorFlow的学习历程<br>
 参考repository：<br>
+版本：tensorflow 0.12.1<br>
 [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)<br>
 [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)<br>
 [Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE](https://github.com/alrojo/tensorflow-tutorial)<br>
