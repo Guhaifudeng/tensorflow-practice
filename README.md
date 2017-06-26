@@ -10,7 +10,7 @@ TensorFlow实战<br>
 [Deep learning library featuring a higher-level API for TensorFlow.](https://github.com/tflearn/tflearn)<br>
 <br>
 ＃[Tensorflow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
-# Ａdditional Resources
+# tensorflow_cookbook Additional Resources
 
 ###Official Resources:
 
