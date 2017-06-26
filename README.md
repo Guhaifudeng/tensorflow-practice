@@ -8,9 +8,9 @@ TensorFlow实战<br>
 [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)<br>
 [Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE](https://github.com/alrojo/tensorflow-tutorial)<br>
 [Deep learning library featuring a higher-level API for TensorFlow.](https://github.com/tflearn/tflearn)<br>
-书籍：
-[Tensorflow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
-# Additional Resources
+<br>
+＃[Tensorflow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+# Ａdditional Resources
 
 ###Official Resources:
 
